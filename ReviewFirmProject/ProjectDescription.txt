@@ -1,0 +1,29 @@
+Full name of member team:
++ Nguyen Tran Tien Phat
++ Nguyen Thanh Chuong
++ Tran Cong Hung
+
+Desciption of project:
+
+- Requirement: 
+	+ System: Cleaned code (SOLID, Easy to extend or maintain...),
+		  Beautyful design (simple, nice color, easy to use...),
+		  Run smoothly,
+	+ Function: Read information of each firm
+		    Review / rating on certain firm
+		    Hot firm suggestion
+		    High rating firm suggestion
+		    New firm suggestion
+		    Search firm (extented function)
+
+- Tool for developing: 
+
+- Model is used on project:
+
+- Duration: 1 month
+
+- Supporter: Le Long Vu lecturer
+
+- Working framework: Scrum; Daily scrum at 23h30
+
+- Time working: 36 hours/week/3 member
